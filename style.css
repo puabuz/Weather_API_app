@@ -58,6 +58,7 @@ body {
     margin: 20px auto;
     border-radius: 19px;
     width: 25%;
+    backdrop-filter: blur(20px);
     
 }
 
@@ -73,6 +74,7 @@ body {
 }
 
 .wraper {
+    
     margin: 15px auto;
 }
 
